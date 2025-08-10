@@ -6873,13 +6873,7 @@ fieldset:disabled .btn {
 }
 
 #carousel-1 {
-    height: 50vh;
-}
-
-@media (max-height: 915px) {
-    #carousel-1 {
-        height: 30vh
-    }
+    height: 30vh;
 }
 
 @media (min-width: 769px) {
